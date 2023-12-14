@@ -1,0 +1,7 @@
+#STYLE#interface #NAME#Props {}
+
+function #NAME#(props: #NAME#Props) {
+    console.log(props)
+    return <div className="#NAME#">#NAME#</div>
+}
+export default #NAME#
