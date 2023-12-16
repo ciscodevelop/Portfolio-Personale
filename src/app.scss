@@ -1,9 +1,13 @@
+@import './sass/global.scss';
 #root {
   // max-width: 1280px;
   margin: 0 auto;
-  padding: 0 5rem;
- 
+  padding: 1rem 5rem;
   width: 100%;
+
+}
+#root > * {
+  margin: 20px 0;
 }
 
 .logo {

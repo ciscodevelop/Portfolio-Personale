@@ -1,38 +1,38 @@
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { Icon } from "@iconify/react";
 import "./footer.scss";
 export function Footer() {
   return (
     <footer className="footer-basic">
       <div className="social">
-        <NavLink to="#">
+        <Link to="#">
           <Icon icon="ion:logo-instagram" />
-        </NavLink>
-        <NavLink to="#">
+        </Link>
+        <Link to="#">
           <Icon icon="ion:logo-snapchat" />
-        </NavLink>
-        <NavLink to="#">
+        </Link>
+        <Link to="#">
           <Icon icon="ion:logo-twitter" />
-        </NavLink>
-        <NavLink to="#">
+        </Link>
+        <Link to="#">
           <Icon icon="ion:logo-facebook" />
-        </NavLink>
+        </Link>
       </div>
       <ul className="list-inline">
         <li className="list-inline-item">
-          <NavLink to="home">Home</NavLink>
+          <Link to="home">Home</Link>
         </li>
         <li className="list-inline-item">
-          <NavLink to="#">Services</NavLink>
+          <Link to="/about">About</Link>
         </li>
         <li className="list-inline-item">
-          <NavLink to="/about">About</NavLink>
+          <Link to="#">Services</Link>
         </li>
         <li className="list-inline-item">
-          <NavLink to="#">Terms</NavLink>
+          <Link to="#">Terms</Link>
         </li>
         <li className="list-inline-item">
-          <NavLink to="#">Privacy Policy</NavLink>
+          <Link to="#">Privacy Policy</Link>
         </li>
       </ul>
       <p className="copyright">Company Cisco © 2023</p>

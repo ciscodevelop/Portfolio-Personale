@@ -3,6 +3,7 @@ import './errorPage.scss';
 interface ErrorProps {}
 
 export function ErrorPage(props: ErrorProps) {
+  console.log(props);  
   const error = useRouteError() as ErrorResponse;
   console.log(error);
   return (
