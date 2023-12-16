@@ -1,8 +1,8 @@
-import './Button.scss';
+// import './Button.scss';
 interface ButtonProps {}
 
-function Button(props: ButtonProps) {
+export function Button(props: ButtonProps) {
     console.log(props)
-    return <div className="Button">Button</div>
+    return <div className="container">Button</div>
 }
 export default Button

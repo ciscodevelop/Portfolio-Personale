@@ -1,7 +1,7 @@
 import './Project.scss';
 interface ProjectProps {}
 
-function Project(props: ProjectProps) {
+export function Project(props: ProjectProps) {
     console.log(props)
     return <div className="Project">Project</div>
 }

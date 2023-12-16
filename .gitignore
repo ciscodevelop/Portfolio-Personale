@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+templates
+rcci.comfig.cjs
 
 # Editor directories and files
 .vscode/*

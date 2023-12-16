@@ -1,8 +1,8 @@
-import './Hero.scss';
+// import './Hero.scss';
 interface HeroProps {}
 
-function Hero(props: HeroProps) {
+export function Hero(props: HeroProps) {
     console.log(props)
-    return <div className="Hero">Hero</div>
+    return <div className="container">Hero</div>
 }
 export default Hero
