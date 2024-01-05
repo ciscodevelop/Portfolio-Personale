@@ -1,0 +1,48 @@
+{
+    "home": {
+      "welcome": "Welcome in my web site",
+      "typeWord":"Web Developer,Frontend Architect,UI/UX Designer",
+      "content": "Bring your digital ideas to life with cutting-edge web development and engaging design, delivering a unique impact for your visitors. Embracing intuitive design and optimizing your online presence with high-performance websites, ensure a memorable and successful online experience.",
+      "btnContent": "Empowering your Web"
+    },
+    "navbar":{
+
+        "sign":"Sign Up",
+        "login":"Login",
+        "menu":"Home,Project,About,Contact"
+    },
+    "timeline": {
+      "last": {
+          "date": "Rome From 01/01/2023 - Present",
+          "title": "Web Developer",
+          "desc": "Using AngularJS for creating dynamic and responsive user interfaces. Implementing custom frontend solutions to optimize the user experience."
+      },
+      "fifth": {
+          "date": "Rome From 01/07/2021 - 01/04/2023",
+          "title": "Web Developer",
+          "desc": "Designing and developing web applications using the React library. Implementing advanced features and interactive user interfaces to enhance the user experience."
+      },
+      "fourth": {
+          "date": "Rome From 14/01/2019 - 30/06/2021",
+          "title": "Front-End Web Developer",
+          "desc": "Participating in front-end web development projects with a focus on React and related technologies."
+      },
+      "third": {
+          "date": "Rome From 01/11/2018 – 31/12/2019",
+          "title": "Technician - Technical System Management",
+          "desc": "Supervising and maintaining IT infrastructures, resolving technical issues, and ensuring the proper functioning of systems."
+      },
+      "second": {
+          "date": "Rome From 01/11/2012 – 31/12/2015",
+          "title": "IT Technician",
+          "desc": "Providing technical support for the implementation and maintenance of customized IT solutions."
+      },
+      "first": {
+          "date": "Rome From 01/05/2009 – 31/12/2011",
+          "title": "Technical Owner and Technical Manager",
+          "desc": "Managing technical responsibilities in the field of IT as the owner of the COM company. Developing customized solutions for clients, ensuring a high level of satisfaction."
+      }
+  }
+  
+  }
+  

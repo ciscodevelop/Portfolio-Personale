@@ -2,22 +2,24 @@
 .container_button {
   button {
     width: 80px;
-  height: 40px;
+    height: 40px;
     display: flex;
     gap: 20px;
     list-style: none;
     color: $primary-color-white;
-    //padding: 10px 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 40px;
     outline: none;
     border: none;
     margin: 0 5px;
-    transition: .3s filter ease-in-out;
+    transition: 0.3s filter ease-in-out;
     &:hover {
-       background: $secondary-color-dark-active;
-       color: $primary-color-white;
+      background: $secondary-color-dark-active;
+      color: $primary-color-white;
       filter: drop-shadow(0px 0px 10px $primary-color-dark-green);
-     font-weight: lighter;
+      font-weight: lighter;
     }
     .active {
       background: $secondary-color-dark-active;

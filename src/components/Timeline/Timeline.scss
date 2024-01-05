@@ -1,0 +1,19 @@
+@import '../../sass/global.scss';
+.timeline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+  .btn_cv{
+    margin: 20px 0;
+  }
+  ul{display: flex;justify-content: center;align-items: center;}
+  h1 {
+    margin-bottom: 40px;
+    text-align: center;
+    color: $primary-color-dark-green;
+  }
+}
+ 
+
+.css-7kp53o-MuiTimelineDot-root{  background-color:rgb(144, 144, 144)!important;}

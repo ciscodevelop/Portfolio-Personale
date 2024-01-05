@@ -7,7 +7,13 @@
 
 }
 #root > * {
-  margin: 20px 0;
+  margin: 15px 0;
+}
+main{
+  padding: 20px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo {
@@ -44,4 +50,16 @@
 
 .read-the-docs {
   color: #888;
+}
+@media screen and (max-width:998px){
+  
+  #root {
+   
+     
+    padding: 0rem 0rem;
+    
+  }
+  #root > * {
+    margin: 30px 0;
+  }
 }

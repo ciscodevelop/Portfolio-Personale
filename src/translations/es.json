@@ -1,0 +1,46 @@
+{
+  "home": {
+    "welcome": "Bienvenido a mi sitio web",
+    "typeWord": "Desarrollador Web, Arquitecto Frontend, Diseñador UI/UX",
+    "content": "Convierte tus ideas digitales en realidad con desarrollo web de vanguardia y diseño atractivo, brindando un impacto único para tus visitantes. Adoptando un diseño intuitivo y optimizando tu presencia en línea con sitios web de alto rendimiento, aseguramos una experiencia en línea memorable y exitosa.",
+    "btnContent": "Potenciando tu Web"
+  },
+  "navbar": {
+    "sign": "Registrarse",
+    "login": "Iniciar sesión",
+    "menu": "Inicio,Proyecto,Acerca de,Contacto"
+  },
+  "timeline": {
+    "last": {
+        "date": "Roma Desde 01/01/2023 - Actualidad",
+        "title": "Desarrollador Web",
+        "desc": "Uso de AngularJS para la creación de interfaces de usuario dinámicas y receptivas. Implementación de soluciones personalizadas en el frontend para optimizar la experiencia del usuario."
+    },
+    "fifth": {
+        "date": "Roma Desde 01/07/2021 - 01/04/2023",
+        "title": "Desarrollador Web",
+        "desc": "Diseño y desarrollo de aplicaciones web utilizando la biblioteca React. Implementación de funciones avanzadas e interfaces de usuario interactivas para mejorar la experiencia del usuario."
+    },
+    "fourth": {
+        "date": "Roma Desde 14/01/2019 - 30/06/2021",
+        "title": "Desarrollador Web Front-End",
+        "desc": "Participación en proyectos de desarrollo web frontend con un enfoque en React y tecnologías relacionadas."
+    },
+    "third": {
+        "date": "Roma Desde 01/11/2018 – 31/12/2019",
+        "title": "Técnico - Gestión Técnica de Sistemas",
+        "desc": "Supervisión y mantenimiento de infraestructuras de TI, resolviendo problemas técnicos y garantizando el correcto funcionamiento de los sistemas."
+    },
+    "second": {
+        "date": "Roma Desde 01/11/2012 – 31/12/2015",
+        "title": "Técnico Informático",
+        "desc": "Soporte técnico para la implementación y mantenimiento de soluciones de TI personalizadas."
+    },
+    "first": {
+        "date": "Roma Desde 01/05/2009 – 31/12/2011",
+        "title": "Propietario Técnico y Gerente Técnico",
+        "desc": "Gestión y responsabilidad técnica en el ámbito de la informática como propietario de la empresa COM. Desarrollo de soluciones personalizadas para los clientes, garantizando un alto nivel de satisfacción."
+    }
+}
+
+}

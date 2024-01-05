@@ -1,0 +1,47 @@
+{
+  "home": {
+    "welcome": "Benvenuto nel mio sito web",
+    "typeWord": "Sviluppatore Web, Architetto front-end, Progettista UI/UX",
+    "content": "Dai vita alle tue idee digitali con uno sviluppo web all'avanguardia e un design accattivante, offrendo un prodotto impatto unico  per i tuoi visitatori. Abbraccia un design intuitivo e ottimizza la tua presenza online con siti web di prestazioni elevate, garantisci un'esperienza online memorabile e di successo.",
+    "btnContent": "Potenzia il tuo Web"
+  },
+  "navbar": {
+    "sign": "Registrati",
+    "login": "Entra",
+    "menu": "Home,Progetti,Chi Sono,Contatti"
+  },
+
+  "timeline": {
+    "last": {
+      "date": "Roma Dal 01/01/2023 - Attuale",
+      "title": "Sviluppatore Web",
+      "desc": "Utilizzo di AngularJS per la creazione di interfacce utente dinamiche e reattive. Implementazione di soluzioni frontend personalizzate per ottimizzare l'espe- rienza dell'utente"
+    },
+    "fifth": {
+      "date": "Roma Dal 01/07/2021 - 01/04/2023",
+      "title": "Sviluppatore Web",
+      "desc": "Progettazione e sviluppo di applicazioni web utilizzando la libreria React.- Redux, Implementazione di funzionalità avanzate e interfacce utente interattive per migliorare l'esperienza dell'utente"
+    },
+    "fourth": {
+      "date": "Roma Dal 14/01/2019 - 30/06/2021",
+      "title": "Sviluppatore Web Front-End",
+      "desc": "Partecipazione a progetti di sviluppo web front-end con un focus su React e tecnologie correlate."
+    },
+    "third": {
+      "date": "Roma Dal 01/11/2018 – 31/12/2019",
+      "title": "Tecnico - Gestione Tecnica Sistemista",
+      "desc": "Supervisione e manutenzione delle infrastrutture IT, risolvendo problemi tecnici e garantendo il corretto funzionamento dei sistemi."
+    },
+    "second": {
+      "date": "Roma Dal 01/11/2012 – 31/12/2015",
+      "title": "Tecnico informatico",
+      "desc": "Supporto tecnico per l'implementazione e la manutenzione di soluzioni IT personalizzate."
+    },
+
+    "first": {
+      "date": "Roma Dal 01/05/2009 – 31/12/2011",
+      "title": "Titolare Tecnico e Responsabile Tecnico",
+      "desc": "Gestione e responsabilità tecnica nell'ambito informatico come titolare dell'impresa COM. Sviluppo di soluzioni personalizzate per i clienti, garantendo un elevato livello di soddisfazione."
+    }
+  }
+}
