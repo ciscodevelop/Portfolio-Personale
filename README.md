@@ -1,27 +1,52 @@
-# React + TypeScript + Vite
+# Portfolio Personale
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio personale sviluppato con React, TypeScript e Vite. Il progetto raccoglie una presentazione professionale, sezioni portfolio e una base frontend moderna pensata per mostrare competenze, progetti e percorso tecnico.
 
-Currently, two official plugins are available:
+## Obiettivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Questo repository serve come vetrina personale per presentare:
 
-## Expanding the ESLint configuration
+- profilo professionale e competenze frontend;
+- progetti realizzati e sperimentazioni tecniche;
+- esperienza con React, TypeScript, routing, state management e UI component libraries;
+- attenzione a interfacce responsive, localizzazione e struttura modulare.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Stack tecnico
 
-- Configure the top-level `parserOptions` property like this:
+- React 18
+- TypeScript
+- Vite
+- Material UI
+- Redux Toolkit
+- React Router
+- i18next / react-i18next
+- Sass
+- ESLint
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+## Script disponibili
+
+```bash
+npm install
+npm run dev
+npm run build
+npm run lint
+npm run preview
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Struttura del progetto
+
+Il progetto usa una base Vite con TypeScript e organizzazione frontend orientata a componenti. La presenza di Redux Toolkit, React Router e i18n permette di gestire stato, navigazione e contenuti multilingua in modo più scalabile rispetto a una semplice pagina statica.
+
+## Stato
+
+Progetto portfolio personale. Alcune parti possono essere ulteriormente evolute con:
+
+- revisione visuale premium;
+- aggiornamento contenuti e case study;
+- deploy pubblico stabile;
+- badge di build e qualità;
+- sezione dedicata a FlowAxion e ai progetti più recenti.
+
+## Autore
+
+Francesco Papa — Full Stack Builder / AI-assisted product builder.
