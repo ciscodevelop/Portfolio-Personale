@@ -1,29 +1,35 @@
 # Portfolio Personale
 
-Portfolio personale sviluppato con React, TypeScript e Vite. Il progetto raccoglie una presentazione professionale, sezioni portfolio e una base frontend moderna pensata per mostrare competenze, progetti e percorso tecnico.
+Portfolio personale sviluppato con React, TypeScript e Vite. Il repository documenta la base storica della presenza
+pubblica di Francesco Papa e raccoglie competenze frontend, UI engineering, routing, state management e contenuti
+multilingua.
 
-## Obiettivo
+## Stato del progetto
 
-Questo repository serve come vetrina personale per presentare:
+Questo progetto resta disponibile come portfolio React completo e archivio evolutivo. La versione più recente del
+posizionamento professionale è il portfolio 2026 standalone, mentre questa codebase conserva il percorso tecnico e le
+scelte frontend maturate nella fase precedente.
 
-- profilo professionale e competenze frontend;
-- progetti realizzati e sperimentazioni tecniche;
-- esperienza con React, TypeScript, routing, state management e UI component libraries;
-- attenzione a interfacce responsive, localizzazione e struttura modulare.
+## Cosa mostra
 
-## Stack tecnico
+- struttura frontend component-based;
+- gestione stato con Redux Toolkit;
+- routing client-side con React Router;
+- contenuti localizzati con i18next;
+- interfaccia basata su Material UI e Sass;
+- workflow Vite con TypeScript ed ESLint.
 
-- React 18
-- TypeScript
-- Vite
-- Material UI
-- Redux Toolkit
-- React Router
-- i18next / react-i18next
-- Sass
-- ESLint
+## Stack
 
-## Script disponibili
+| Area    | Tecnologie                  |
+| ------- | --------------------------- |
+| UI      | React 18, Material UI, Sass |
+| State   | Redux Toolkit, React Redux  |
+| Routing | React Router                |
+| i18n    | i18next, react-i18next      |
+| Tooling | Vite, TypeScript, ESLint    |
+
+## Comandi
 
 ```bash
 npm install
@@ -33,20 +39,11 @@ npm run lint
 npm run preview
 ```
 
-## Struttura del progetto
+## Note di manutenzione
 
-Il progetto usa una base Vite con TypeScript e organizzazione frontend orientata a componenti. La presenza di Redux Toolkit, React Router e i18n permette di gestire stato, navigazione e contenuti multilingua in modo più scalabile rispetto a una semplice pagina statica.
-
-## Stato
-
-Progetto portfolio personale. Alcune parti possono essere ulteriormente evolute con:
-
-- revisione visuale premium;
-- aggiornamento contenuti e case study;
-- deploy pubblico stabile;
-- badge di build e qualità;
-- sezione dedicata a FlowAxion e ai progetti più recenti.
+Il progetto è mantenuto come repository pubblico storico. Gli aggiornamenti consigliati sono limitati a dipendenze,
+build, README e link verso il portfolio canonico più recente.
 
 ## Autore
 
-Francesco Papa — Full Stack Builder / AI-assisted product builder.
+Francesco Papa — Product Architect / AI-assisted SaaS Builder.
